@@ -1,4 +1,5 @@
 ---
+draft: true
 type: case
 title: "Fine People Hoax"
 description: "The claim that Trump called neo-Nazis 'fine people' at Charlottesville"

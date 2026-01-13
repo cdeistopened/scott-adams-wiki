@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "About Scott Adams": "/about",
+      "GitHub": "https://github.com",
     },
   }),
 }
@@ -38,7 +38,23 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        // Hide episodes folder (too many - 1,151 items) and tags
+        return node.slugSegment !== "tags" && node.slugSegment !== "episodes"
+      },
+      sortFn: (a, b) => {
+        // Feature domains first, then frameworks, cases, people
+        const order = ["domains", "frameworks", "cases", "people"]
+        const aIdx = order.indexOf(a.slugSegment ?? "")
+        const bIdx = order.indexOf(b.slugSegment ?? "")
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
+        return a.displayName.localeCompare(b.displayName)
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +78,21 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      filterFn: (node) => {
+        return node.slugSegment !== "tags" && node.slugSegment !== "episodes"
+      },
+      sortFn: (a, b) => {
+        const order = ["domains", "frameworks", "cases", "people"]
+        const aIdx = order.indexOf(a.slugSegment ?? "")
+        const bIdx = order.indexOf(b.slugSegment ?? "")
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
+        return a.displayName.localeCompare(b.displayName)
+      },
+    }),
   ],
   right: [],
 }
