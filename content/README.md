@@ -63,7 +63,7 @@ scott-adams-wiki/
 
 1. **Cases are written once** - Examples like Charlottesville live in `/cases/` and are linked from multiple frameworks. No repeating stories.
 
-2. **Wikilinks create the graph** - `[[frameworks/two-movies-on-one-screen]]` creates bidirectional connections.
+2. **Wikilinks create the graph** - `[[two-movies-on-one-screen]]` creates bidirectional connections.
 
 3. **Maturity levels** - Each file has a `maturity` field: seedling → budding → evergreen
 

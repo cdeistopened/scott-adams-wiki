@@ -29,7 +29,7 @@ Defense mechanisms include:
 - **Dismissing the source**: "That's just right-wing media"
 - **Reinterpreting the evidence**: "That proves it even more"
 - **Attacking the messenger**: Personal attacks rather than engagement
-- **[[frameworks/word-salad|Word salad]]**: Generating incoherent responses that avoid the point
+- **[[Word salad]]**: Generating incoherent responses that avoid the point
 
 ## The Tells
 
@@ -42,15 +42,15 @@ Adams identifies signs of cognitive dissonance:
 
 ## Relationship to Two Movies
 
-[[frameworks/two-movies-on-one-screen|Two Movies]] describes the phenomenon of divergent perceptions. Cognitive dissonance explains why people stay in their movie even when presented with contradicting evidence.
+[[Two Movies]] describes the phenomenon of divergent perceptions. Cognitive dissonance explains why people stay in their movie even when presented with contradicting evidence.
 
 The discomfort of updating a belief - especially one with social and identity implications - exceeds the discomfort of holding a false belief. The brain chooses the path of least psychological resistance.
 
 ## See Also
 
-- [[frameworks/two-movies-on-one-screen|Two Movies on One Screen]] - The divergent perception phenomenon
-- [[frameworks/word-salad|Word Salad]] - A symptom of cognitive dissonance
-- [[frameworks/confirmation-bias|Confirmation Bias]] - Why we seek confirming evidence
+- [[Two Movies on One Screen]] - The divergent perception phenomenon
+- [[Word Salad]] - A symptom of cognitive dissonance
+- [[Confirmation Bias]] - Why we seek confirming evidence
 
 ---
 

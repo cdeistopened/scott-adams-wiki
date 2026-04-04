@@ -16,13 +16,13 @@ Scott's advice on career success (talent stacking), daily habits (affirmations, 
 
 ## Key Frameworks
 
-- [[frameworks/affirmations|Affirmations]]
-- [[frameworks/thought-experiment|Thought Experiment]]
-- [[frameworks/dopamine-hit|Dopamine Hit]]
-- [[frameworks/shaking-the-box|Shaking The Box]]
-- [[frameworks/golden-age|Golden Age]]
-- [[frameworks/simultaneous-sip|Simultaneous Sip]]
-- [[frameworks/talent-stack|Talent Stack]]
+- [[Affirmations]]
+- [[Thought Experiment]]
+- [[Dopamine Hit]]
+- [[Shaking The Box]]
+- [[Golden Age]]
+- [[Simultaneous Sip]]
+- [[Talent Stack]]
 
 ## How to Navigate
 

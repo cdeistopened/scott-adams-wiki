@@ -32,21 +32,21 @@ Scott's ideas cluster into four domains:
 
 | Domain | Description |
 |--------|-------------|
-| **[[domains/persuasion\|Persuasion]]** | Tools and techniques for changing minds |
-| **[[domains/perception\|Perception]]** | How we see reality - and why we see it differently |
-| **[[domains/prediction\|Prediction]]** | Systems for anticipating outcomes |
-| **[[domains/lifestyle\|Lifestyle]]** | Personal optimization and the good life |
+| **[[Persuasion]]** | Tools and techniques for changing minds |
+| **[[Perception]]** | How we see reality - and why we see it differently |
+| **[[Prediction]]** | Systems for anticipating outcomes |
+| **[[Lifestyle]]** | Personal optimization and the good life |
 
 ### Core Frameworks
 
 His most-referenced ideas:
 
-- **[[frameworks/two-movies-on-one-screen\|Two Movies on One Screen]]** - Why people see opposite realities
-- **[[frameworks/persuasion-filter\|Persuasion Filter]]** - Viewing the world through persuasion
-- **[[frameworks/talent-stack\|Talent Stack]]** - Career success through skill combinations
-- **[[frameworks/systems-vs-goals\|Systems vs Goals]]** - Why systems beat goals
-- **[[frameworks/reframing\|Reframing]]** - The most powerful persuasion technique
-- **[[frameworks/affirmations\|Affirmations]]** - Programming your reality
+- **[[Two Movies on One Screen]]** - Why people see opposite realities
+- **[[Persuasion Filter]]** - Viewing the world through persuasion
+- **[[Talent Stack]]** - Career success through skill combinations
+- **[[Systems vs Goals]]** - Why systems beat goals
+- **[[Reframing]]** - The most powerful persuasion technique
+- **[[Affirmations]]** - Programming your reality
 
 ### Featured Episodes
 

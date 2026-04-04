@@ -39,13 +39,13 @@ Separately, these skills are common. Combined, they made him a unique force in m
 
 Building a stack is a process of identifying "force multipliers"—skills that make every other skill you have more valuable. Scott frequently recommends specific skills that should be in almost everyone's stack:
 
-*   **Persuasion/Psychology:** Understanding how the human brain works.
+*   **[[persuasion|Persuasion]]/Psychology:** Understanding how the human brain works.
 *   **Public Speaking:** Overcoming the fear of speaking to groups.
 *   **Accounting/Business Basics:** Understanding the "language of business."
 *   **Second Languages:** Broadening the market for your other skills.
 *   **Technological Literacy:** Knowing enough to talk to developers. As Scott notes, "If you talk to a developer the developer would say yeah that's going to take that could take me 60 days two years later you would almost be done." Understanding the stack helps you manage these timelines.
 
-The stack is inherently tied to Scott's [[frameworks/systems-vs-goals]] philosophy. Stacking is a **system**, not a goal. A goal would be "I want to be a famous cartoonist." A system is "I will constantly acquire new, useful skills that increase my mathematical odds of finding a winning combination." By focusing on the system of stacking, you are constantly improving your "luck surface area."
+The stack is inherently tied to Scott's [[systems-vs-goals]] philosophy. Stacking is a **system**, not a goal. A goal would be "I want to be a famous cartoonist." A system is "I will constantly acquire new, useful skills that increase my mathematical odds of finding a winning combination." By focusing on the system of stacking, you are constantly improving your "luck surface area."
 
 ## Why It Beats Specialization
 
@@ -54,7 +54,7 @@ While some fields (like brain surgery or professional sports) require extreme sp
 Specialization makes you vulnerable to market changes or AI replacement. A Talent Stack makes you anti-fragile. If one skill becomes obsolete, you simply add a new layer to the stack. Because "natural systems have equilibriums they have feedback mechanisms," your stack will eventually find its equilibrium in the marketplace, often leading to opportunities you couldn't have predicted when you started.
 
 ## See Also
-*   [[frameworks/systems-vs-goals]]
+*   [[systems-vs-goals]]
 *   [[persuasion]]
 *   [[the-loser-think]]
 *   [[affirmations]]

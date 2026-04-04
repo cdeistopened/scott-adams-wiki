@@ -39,6 +39,6 @@ In hypnosis and sales, a "yes-set" is a series of small agreements or actions th
 The Sip has become the most recognizable element of the show's brand. It serves as a filter; those who find the ritual "weird" or "cringe" self-select out of the audience, while those who participate become more deeply embedded in the "Adams-sphere." It is a daily demonstration of how context and framing can change the value of a simple cup of coffee. As Scott often says, "you can never be wrong with context," and the Sip provides the essential context of shared enjoyment before the "work" of the day begins.
 
 ## See Also
-*   **Affirmations**
-*   **Cognitive Dissonance**
-*   **Persuasion Filter**
+*   **[[affirmations|Affirmations]]**
+*   **[[cognitive-dissonance|Cognitive Dissonance]]**
+*   **[[persuasion-filter|Persuasion Filter]]**

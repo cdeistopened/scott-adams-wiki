@@ -19,9 +19,9 @@ For a Kill Shot to be effective, it must possess three primary characteristics:
 
 ### The Visual Anchor
 
-The primary power of the Kill Shot lies in its ability to bypass the rational mind and speak directly to the "reptilian brain." In the Persuasion Filter, facts and logic are the weakest tools available. A Kill Shot operates at the level of [[Visual Persuasion]]. 
+The primary power of the Kill Shot lies in its ability to bypass the rational mind and speak directly to the "reptilian brain." In the [[persuasion-filter|Persuasion Filter]], facts and logic are the weakest tools available. A Kill Shot operates at the level of [[Visual Persuasion]]. 
 
-By using nicknames like "Crooked Hillary" or "Lyin' Ted," the persuader establishes a frame that the opponent must inhabit. Every time Hillary Clinton faced a new headline regarding her emails, the "Crooked" anchor was reinforced. Similarly, labeling Pete Buttigieg "Alfred E. Neuman" was an attempt to trigger a visual recognition of youth and inexperience that undermined his "serious" statesman persona.
+By using nicknames like "Crooked Hillary" or "Lyin' Ted," the persuader establishes a frame that the opponent must inhabit. Every time [[hillary-clinton|Hillary Clinton]] faced a new headline regarding her emails, the "Crooked" anchor was reinforced. Similarly, labeling [[pete-buttigieg|Pete Buttigieg]] "Alfred E. Neuman" was an attempt to trigger a visual recognition of youth and inexperience that undermined his "serious" statesman persona.
 
 ### Why Kill Shots Are Hard to Counter
 

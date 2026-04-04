@@ -17,9 +17,9 @@ created: 2026-01-13
 
 ## Core Idea
 
-Word salad is Adams' term for responses that use sophisticated vocabulary but don't form a coherent argument. It's a tell that someone is experiencing [[frameworks/cognitive-dissonance|cognitive dissonance]] - their filter has been challenged and they're generating noise rather than engaging with the evidence.
+Word salad is Adams' term for responses that use sophisticated vocabulary but don't form a coherent argument. It's a tell that someone is experiencing [[cognitive dissonance]] - their filter has been challenged and they're generating noise rather than engaging with the evidence.
 
-The quote above is an actual response Adams received when asking someone to explain the [[cases/fine-people-hoax|Charlottesville narrative]]. It sounds intelligent but says nothing falsifiable or specific.
+The quote above is an actual response Adams received when asking someone to explain the [[Charlottesville narrative]]. It sounds intelligent but says nothing falsifiable or specific.
 
 ## How to Recognize It
 
@@ -53,9 +53,9 @@ The appropriate response is often to disengage or to simply note the pattern for
 
 ## See Also
 
-- [[frameworks/cognitive-dissonance|Cognitive Dissonance]] - The underlying mechanism
-- [[frameworks/two-movies-on-one-screen|Two Movies on One Screen]] - Why different people reach different conclusions
-- [[cases/fine-people-hoax|Fine People Hoax]] - Where Adams observed this pattern extensively
+- [[Cognitive Dissonance]] - The underlying mechanism
+- [[Two Movies on One Screen]] - Why different people reach different conclusions
+- [[Fine People Hoax]] - Where Adams observed this pattern extensively
 
 ---
 

@@ -8,7 +8,7 @@ maturity: evergreen
 created: 2026-01-13
 ---
 
-**Mass Hysteria** (also referred to by Scott Adams as "Mass Delusion" or "Mass Hallucination") is a psychological phenomenon where a large group of people adopts a shared, demonstrably false belief. In Adams' [[persuasion-filter]], mass hysteria is not a rare medical anomaly but a common feature of modern political discourse, driven by high emotional states and the brain's tendency to prioritize narrative consistency over factual accuracy.
+**Mass Hysteria** (also referred to by Scott Adams as "Mass Delusion" or "Mass [[hallucination|Hallucination]]") is a psychological phenomenon where a large group of people adopts a shared, demonstrably false belief. In Adams' [[persuasion-filter]], mass hysteria is not a rare medical anomaly but a common feature of modern political discourse, driven by high emotional states and the brain's tendency to prioritize narrative consistency over factual accuracy.
 
 ### The Mechanism of Hysteria
 Adams posits that "hallucinations are viral—that's what causes a hysteria." Unlike a single person experiencing a private delusion, mass hysteria is fueled by emotional contagion. When a group is subjected to high levels of fear or anger—often via media cycles—their cognitive centers effectively shut down, and they begin to "filter" reality to match their emotional state.

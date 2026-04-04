@@ -14,7 +14,7 @@ By focusing the target’s mind on what happens *after* an event occurs, the per
 ### The Psychological Mechanism
 The human brain has difficulty distinguishing between a vivid mental simulation and reality. When you are asked to choose between two colors for a new car, your brain first accepts the premise that you are buying the car so it can perform the task of choosing a color. 
 
-In the context of [[frameworks/pacing-and-leading]], thinking past the sale is an aggressive form of leading. The persuader paces the target's current state but immediately jumps the lead to a future state, leaving the target to play catch-up. If the target begins arguing about the details of that future state, they have unconsciously accepted the primary sale.
+In the context of [[pacing-and-leading]], thinking past the sale is an aggressive form of leading. The persuader paces the target's current state but immediately jumps the lead to a future state, leaving the target to play catch-up. If the target begins arguing about the details of that future state, they have unconsciously accepted the primary sale.
 
 ### Applications in Politics and Media
 In a political context, this technique shifts the debate from "Should we do X?" to "How should we handle the results of X?" 
@@ -29,6 +29,6 @@ Scott Adams notes that imagination is a powerful tool in this framework because 
 This technique is often used to induce what Adams calls "mental hysteria" or "situations" in an opponent. By forcing an opponent to argue about the severity of a "crime" or the details of a "scandal," the persuader ensures the opponent is no longer arguing that the crime or scandal didn't happen. They are already living in the persuader's reality.
 
 ### Related Frameworks
-*   [[frameworks/pacing-and-leading]]: The foundational structure of moving a target from their current belief to a new one.
-*   [[frameworks/high-ground-maneuver]]: Often used in conjunction to make the "sale" seem like a moral or practical necessity.
-*   [[frameworks/confirmation-bias]]: Once the target thinks past the sale, they will look for evidence to support their new mental simulation.
+*   [[pacing-and-leading]]: The foundational structure of moving a target from their current belief to a new one.
+*   [[high-ground-maneuver]]: Often used in conjunction to make the "sale" seem like a moral or practical necessity.
+*   [[confirmation-bias]]: Once the target thinks past the sale, they will look for evidence to support their new mental simulation.

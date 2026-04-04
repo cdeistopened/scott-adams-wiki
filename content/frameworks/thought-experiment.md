@@ -22,5 +22,5 @@ Scott observes that "the mental health of the country is deteriorating at exactl
 
 ### Related Frameworks
 * [[Hallucination]] – When a thought experiment reveals that two people are seeing different realities.
-* [[Persuasion Filters]] – Using imagined scenarios to see which "filter" (Logic, Religion, or Persuasion) predicts the future better.
+* [[Persuasion Filters]] – Using imagined scenarios to see which "filter" (Logic, Religion, or [[persuasion|Persuasion]]) predicts the future better.
 * [[High Ground Maneuver]] – Shifting a thought experiment to a level where everyone must agree.

@@ -7,7 +7,7 @@ maturity: evergreen
 created: 2026-01-13
 ---
 
-**Word Thinking** is a cognitive error where an individual treats words, definitions, and labels as if they are the reality they describe. Scott Adams identifies this as a primary component of [[frameworks/loserthink]], noting that words are "lossy compressions" of a much more complex, high-resolution world. When people fall into this trap, they prioritize semantic purity over observed mechanics.
+**Word Thinking** is a cognitive error where an individual treats words, definitions, and labels as if they are the reality they describe. Scott Adams identifies this as a primary component of [[loserthink]], noting that words are "lossy compressions" of a much more complex, high-resolution world. When people fall into this trap, they prioritize semantic purity over observed mechanics.
 
 ### The Mechanism of the Error
 The human brain uses language to categorize reality, but these categories are often imprecise. Word Thinking occurs when a person ignores the underlying facts of a situation to argue about whether a specific label applies. If the word fits their mental model, they assume the reality must follow. 
@@ -23,4 +23,4 @@ Adams frequently cites the Russia-collusion narrative as a prime example. Partis
 ### Overcoming Word Thinking
 To escape this trap, one must focus on the "mechanics" of a situation—the cause and effect—rather than the labels assigned to them. Recognizing that people with the same political opinions are likely to use the same pre-packaged vocabulary is a step toward identifying when a conversation has drifted from reality into pure semantics.
 
-Related: [[frameworks/cognitive-dissonance]], [[frameworks/persuasion]], [[frameworks/pacing-and-leading]].
+Related: [[cognitive-dissonance]], [[persuasion]], [[pacing-and-leading]].

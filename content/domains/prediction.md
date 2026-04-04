@@ -16,13 +16,13 @@ Rather than making point predictions, Scott advocates for systems thinking - put
 
 ## Key Frameworks
 
-- [[frameworks/risk-management|Risk Management]]
-- [[frameworks/systems-vs-goals|Systems Vs Goals]]
-- [[frameworks/fine-people-hoax|Fine People Hoax]]
-- [[frameworks/slaughter-meter|Slaughter Meter]]
-- [[frameworks/third-act|Third Act]]
-- [[frameworks/hoax|Hoax]]
-- [[frameworks/fake-news|Fake News]]
+- [[Risk Management]]
+- [[Systems Vs Goals]]
+- [[Fine People Hoax]]
+- [[Slaughter Meter]]
+- [[Third Act]]
+- [[Hoax]]
+- [[Fake News]]
 
 ## How to Navigate
 

@@ -39,16 +39,16 @@ The underlying facts remain constant. Only the interpretation changes. But inter
 Adams frequently analyzed Trump's use of reframing in political contexts:
 
 - **"Crooked Hillary"**: Reframed the election from policy debate to character question
-- **"Fake News"**: Reframed media criticism from journalism to partisan attack
+- **"[[fake-news|Fake News]]"**: Reframed media criticism from journalism to partisan attack
 - **"Witch Hunt"**: Reframed investigation from legal process to political persecution
 
 Each reframe shifted the context in which people evaluated information.
 
 ## Relationship to Two Movies
 
-[[frameworks/two-movies-on-one-screen|Two Movies]] explains why people perceive the same events differently. Reframing is a technique for deliberately shifting which movie someone watches.
+[[Two Movies]] explains why people perceive the same events differently. Reframing is a technique for deliberately shifting which movie someone watches.
 
-When Adams tries to "deprogram" people from the [[cases/fine-people-hoax|Charlottesville narrative]], he's attempting a reframe - shifting from "Trump praised racists" to "Media misreported context."
+When Adams tries to "deprogram" people from the [[Charlottesville narrative]], he's attempting a reframe - shifting from "Trump praised racists" to "Media misreported context."
 
 ## Defensive Reframing
 
@@ -63,9 +63,9 @@ Awareness of framing is the first defense against manipulation.
 
 ## See Also
 
-- [[frameworks/persuasion-filter|Persuasion Filter]] - Why reframing works
-- [[frameworks/pacing-and-leading|Pacing and Leading]] - Using reframing in sequence
-- [[frameworks/anchoring|Anchoring]] - Setting the initial frame
+- [[Persuasion Filter]] - Why reframing works
+- [[Pacing and Leading]] - Using reframing in sequence
+- [[Anchoring]] - Setting the initial frame
 
 ---
 

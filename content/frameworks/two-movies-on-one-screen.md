@@ -19,7 +19,7 @@ created: 2026-01-13
 
 The two movies framework describes how people watching the same events reach opposite conclusions - not because one side is stupid or evil, but because they're processing information through different cognitive filters.
 
-Adams traces this back to his training as a hypnotist. Hypnosis taught him that people don't perceive reality directly. They perceive reality through mental frameworks that determine what information gets through and how it gets interpreted. The same facts pass through different filters and produce different conclusions.
+Adams traces this back to his training as a hypnotist. [[hypnosis|Hypnosis]] taught him that people don't perceive reality directly. They perceive reality through mental frameworks that determine what information gets through and how it gets interpreted. The same facts pass through different filters and produce different conclusions.
 
 What makes the two movies phenomenon different from simple disagreement is that evidence won't change minds. Both sides incorporate new information in ways that reinforce their existing movie. The filter determines the conclusion, not the evidence.
 
@@ -27,7 +27,7 @@ What makes the two movies phenomenon different from simple disagreement is that 
 
 How do two people watching the same events end up in different movies? Adams identifies several factors:
 
-**[[frameworks/confirmation-bias|Confirmation Bias]]**: Once you're in a movie, you notice evidence that supports it and dismiss evidence that contradicts it. This isn't stupidity - it's how human cognition works. The brain seeks coherence, and coherence means fitting new information into existing frameworks.
+**[[Confirmation Bias]]**: Once you're in a movie, you notice evidence that supports it and dismiss evidence that contradicts it. This isn't stupidity - it's how human cognition works. The brain seeks coherence, and coherence means fitting new information into existing frameworks.
 
 **Social Pressure**: Your movie determines your tribe. Changing movies means potentially losing friends, family, and career opportunities. The cost of switching is high, so people rationalize staying.
 
@@ -39,13 +39,13 @@ How do two people watching the same events end up in different movies? Adams ide
 
 Adams identifies several signs that someone is deep in their movie:
 
-**[[frameworks/word-salad|Word Salad]]**: Responses that use sophisticated vocabulary but don't form coherent arguments. When someone's filter gets challenged with contradictory evidence, they don't update their belief - they generate noise.
+**[[Word Salad]]**: Responses that use sophisticated vocabulary but don't form coherent arguments. When someone's filter gets challenged with contradictory evidence, they don't update their belief - they generate noise.
 
 **Topic Switching**: When presented with evidence against one claim, the person immediately pivots to a different claim. "Well what about that time he..." becomes a refuge.
 
 **Too Many Reasons**: Strong arguments tend to have one or two good reasons. When someone offers two hundred reasons against something, they likely started with the conclusion and worked backwards.
 
-**Emotional Escalation**: As [[frameworks/cognitive-dissonance|cognitive dissonance]] increases, so does the emotional temperature. The person gets angrier, not more curious.
+**Emotional Escalation**: As [[cognitive dissonance]] increases, so does the emotional temperature. The person gets angrier, not more curious.
 
 ## The Artist vs. Economist
 
@@ -81,10 +81,10 @@ But knowing that you're in a movie - that's the first step toward seeing clearly
 
 ## See Also
 
-- [[frameworks/persuasion-filter|Persuasion Filter]] - Why people see what they expect to see
-- [[frameworks/cognitive-dissonance|Cognitive Dissonance]] - What happens when filters get challenged
-- [[frameworks/reframing|Reframing]] - Technique for shifting someone's movie
-- [[cases/fine-people-hoax|Fine People Hoax]] - Scott's canonical example of two movies
+- [[Persuasion Filter]] - Why people see what they expect to see
+- [[Cognitive Dissonance]] - What happens when filters get challenged
+- [[Reframing]] - Technique for shifting someone's movie
+- [[Fine People Hoax]] - Scott's canonical example of two movies
 
 ---
 

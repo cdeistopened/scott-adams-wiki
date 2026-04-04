@@ -16,16 +16,16 @@ The study of how humans construct their understanding of reality. Scott argues t
 
 ## Key Frameworks
 
-- [[frameworks/two-movies-on-one-screen|Two Movies On One Screen]]
-- [[frameworks/loserthink|Loserthink]]
-- [[frameworks/fog-of-war|Fog Of War]]
-- [[frameworks/mass-hysteria|Mass Hysteria]]
-- [[frameworks/trump-derangement-syndrome|Trump Derangement Syndrome]]
-- [[frameworks/pattern-recognition|Pattern Recognition]]
-- [[frameworks/confirmation-bias|Confirmation Bias]]
-- [[frameworks/mind-reading|Mind Reading]]
-- [[frameworks/word-thinking|Word Thinking]]
-- [[frameworks/simulation|Simulation]]
+- [[Two Movies On One Screen]]
+- [[Loserthink]]
+- [[Fog Of War]]
+- [[Mass Hysteria]]
+- [[Trump Derangement Syndrome]]
+- [[Pattern Recognition]]
+- [[Confirmation Bias]]
+- [[Mind Reading]]
+- [[Word Thinking]]
+- [[Simulation]]
 
 ## How to Navigate
 

@@ -19,7 +19,7 @@ created: 2026-01-13
 
 Pacing and leading is a cornerstone technique of professional hypnosis and high-level persuasion. The process involves two distinct stages: first, you match the current experience, thoughts, or emotions of your subject (the pace); second, once you have established a psychological bond, you guide them toward a different direction or set of behaviors (the lead). In Adams's analysis, this is the most effective way to change a person’s mind because it bypasses the natural defensiveness triggered by direct contradiction.
 
-Most people attempt to change minds through "leading" alone. They present a logical argument that conflicts with the listener’s current reality. This results in the listener digging in their heels to protect their existing "movie." Pacing works by entering the subject’s [[frameworks/two-movies-on-one-screen|movie]] first. When you pace someone, you signal that you see the world exactly as they do. Once the subject feels understood, their subconscious lowers its guard, allowing the persuader to "lead" them into a new way of thinking or a [[frameworks/reframing|reframe]] of the situation.
+Most people attempt to change minds through "leading" alone. They present a logical argument that conflicts with the listener’s current reality. This results in the listener digging in their heels to protect their existing "movie." Pacing works by entering the subject’s [[movie]] first. When you pace someone, you signal that you see the world exactly as they do. Once the subject feels understood, their subconscious lowers its guard, allowing the persuader to "lead" them into a new way of thinking or a [[reframe]] of the situation.
 
 ## The Mechanism
 
@@ -33,12 +33,12 @@ A "failed pace" occurs when a persuader insults the audience or ignores their pr
 
 Adams famously used this framework to explain Donald Trump’s 2016 campaign. While critics saw Trump’s rhetoric as "aggressive" or "erratic," Adams saw a Master Persuader pacing the frustrations of a specific demographic. Trump would pace his audience’s anger about trade, immigration, or "the establishment," using hyperbole to match the intensity of their feelings. Once the audience felt Trump was the only one who "spoke their language," they were willing to follow his lead on policy shifts that might otherwise have been rejected.
 
-Pacing is also the primary tool used to dismantle a "hoax" or a media narrative. In the case of the [[cases/fine-people-hoax|fine people hoax]], Adams notes that to change someone's mind, you cannot simply call them wrong. You must pace the fact that the media presented them with a specific set of edited clips, acknowledge that anyone seeing those clips would be rightfully outraged, and only then lead them to the full transcript. This allows the person to move to a new conclusion without feeling like they were "fooled" or "stupid," which are the two biggest barriers to persuasion.
+Pacing is also the primary tool used to dismantle a "hoax" or a media narrative. In the case of the [[fine people hoax]], Adams notes that to change someone's mind, you cannot simply call them wrong. You must pace the fact that the media presented them with a specific set of edited clips, acknowledge that anyone seeing those clips would be rightfully outraged, and only then lead them to the full transcript. This allows the person to move to a new conclusion without feeling like they were "fooled" or "stupid," which are the two biggest barriers to persuasion.
 
-When viewing politics through the [[frameworks/persuasion-filter|persuasion filter]], pacing and leading explains why "facts" often matter less than "feeling heard." If a politician paces your fears about a "humanitarian crisis" or "climate change," you will likely accept their proposed solutions even if the math doesn't quite add up. As Adams puts it, "perception is reality," and pacing is the method for managing that perception from the inside out.
+When viewing politics through the [[persuasion filter]], pacing and leading explains why "facts" often matter less than "feeling heard." If a politician paces your fears about a "humanitarian crisis" or "climate change," you will likely accept their proposed solutions even if the math doesn't quite add up. As Adams puts it, "perception is reality," and pacing is the method for managing that perception from the inside out.
 
 ## See Also
-- [[frameworks/persuasion-filter|Persuasion Filter]] - The lens through which pacing and leading is observed.
-- [[frameworks/reframing|Reframing]] - The "lead" that provides a new way to view the paced reality.
-- [[frameworks/two-movies-on-one-screen|Two Movies on One Screen]] - Why you must pace the specific movie your audience is watching.
-- [[frameworks/anchoring|Anchoring]] - A specific type of lead used to set price or value expectations.
+- [[Persuasion Filter]] - The lens through which pacing and leading is observed.
+- [[Reframing]] - The "lead" that provides a new way to view the paced reality.
+- [[Two Movies on One Screen]] - Why you must pace the specific movie your audience is watching.
+- [[Anchoring]] - A specific type of lead used to set price or value expectations.

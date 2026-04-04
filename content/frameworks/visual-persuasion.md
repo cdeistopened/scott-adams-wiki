@@ -15,7 +15,7 @@ created: 2026-01-13
 
 ## Core Idea
 
-Visual Persuasion is the principle that humans are evolutionarily hardwired to prioritize imagery over facts, data, or written logic. In the [[persuasion-filter]], Scott Adams posits that the human brain processes visual information in the "lizard brain"—the seat of emotion and survival—whereas words and statistics are processed by the much slower, less influential prefrontal cortex.
+Visual [[persuasion|Persuasion]] is the principle that humans are evolutionarily hardwired to prioritize imagery over facts, data, or written logic. In the [[persuasion-filter]], Scott Adams posits that the human brain processes visual information in the "lizard brain"—the seat of emotion and survival—whereas words and statistics are processed by the much slower, less influential prefrontal cortex.
 
 A persuader who provides a clear, high-contrast image will almost always defeat a competitor who provides a superior logical argument. This is because a visual creates an immediate emotional state that the rational mind then attempts to justify after the fact.
 
@@ -44,7 +44,7 @@ Adams frequently warns about the use of "hockey stick curves" in climate science
 The media utilizes visual persuasion to "pace and lead" the public. By selecting specific photos—such as those that make a candidate look "weird" or exhausted—they create a visual anchor that overrides the candidate's actual words. Adams suggests that to counter a visual attack, one must either provide a stronger counter-visual or use [[reframing]] to change what the image represents. For instance, shifting a debate from "illegal immigration" (which can be abstract) to a "humanitarian crisis" (which evokes specific, pitiable imagery) is a move toward a stronger visual position that is "less susceptible to the racism charge."
 
 ## See Also
-*   [[frameworks/persuasion-filter]]
-*   [[frameworks/reframing]]
-*   [[frameworks/pacing-and-leading]]
+*   [[persuasion-filter]]
+*   [[reframing]]
+*   [[pacing-and-leading]]
 *   [[concepts/high-ground-maneuver]]

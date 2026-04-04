@@ -27,9 +27,9 @@ The most-watched episodes from "Coffee with Scott Adams" - selected by view coun
 
 The most-viewed episodes cluster around:
 
-1. **[[frameworks/affirmations|Affirmations]] & Self-Improvement** - Practical techniques viewers can apply
-2. **[[frameworks/reframing|Reframing]] & Anxiety** - Mental tools for managing stress
-3. **[[frameworks/persuasion-filter|Persuasion Analysis]]** - Breaking down political communication
+1. **[[Affirmations]] & Self-Improvement** - Practical techniques viewers can apply
+2. **[[Reframing]] & Anxiety** - Mental tools for managing stress
+3. **[[Persuasion Analysis]]** - Breaking down political communication
 4. **Guest Interviews** - Especially Naval Ravikant conversations
 5. **Controversial Predictions** - Scott's willingness to take unpopular positions
 

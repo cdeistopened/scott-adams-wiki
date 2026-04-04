@@ -13,7 +13,7 @@ draft: true
 
 ## Who They Are
 
-*Brief description of Barack Obama and their relevance to Scott's commentary.*
+*Brief description of Barack [[obama|Obama]] and their relevance to Scott's commentary.*
 
 ## Key Appearances
 

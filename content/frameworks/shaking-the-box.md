@@ -17,8 +17,8 @@ Adams often applies this to political figures, noting that a leader might "shake
 ### Connection to Other Frameworks
 Shaking the box is a core component of a broader lifestyle philosophy:
 
-*   **[[frameworks/systems-vs-goals]]**: Shaking the box is a system, not a goal. A goal-oriented person waits for a specific opening; a systems-oriented person continuously introduces new variables to ensure that luck eventually has a place to land.
-*   **[[frameworks/talent-stack]]**: Entering new, "shaken" environments forces you to utilize different parts of your talent stack. It identifies which skill combinations are most valuable in a disrupted market.
+*   **[[systems-vs-goals]]**: Shaking the box is a system, not a goal. A goal-oriented person waits for a specific opening; a systems-oriented person continuously introduces new variables to ensure that luck eventually has a place to land.
+*   **[[talent-stack]]**: Entering new, "shaken" environments forces you to utilize different parts of your talent stack. It identifies which skill combinations are most valuable in a disrupted market.
 
 ### Practical Application
 In a professional context, Adams suggests that shaking the box can involve taking decisions away from a superior by creating a new reality they are forced to react to. If a boss cannot do the work or solve the problem, the employee who introduces a new variable effectively controls the outcome. 

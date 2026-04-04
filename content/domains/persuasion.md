@@ -16,16 +16,16 @@ Scott's primary lens for analyzing politics and human behavior. Drawing from his
 
 ## Key Frameworks
 
-- [[frameworks/pacing-and-leading|Pacing And Leading]]
-- [[frameworks/kill-shot|Kill Shot]]
-- [[frameworks/hypnosis|Hypnosis]]
-- [[frameworks/branding|Branding]]
-- [[frameworks/persuasion-filter|Persuasion Filter]]
-- [[frameworks/reframing|Reframing]]
-- [[frameworks/anchoring|Anchoring]]
-- [[frameworks/brainwashing|Brainwashing]]
-- [[frameworks/visual-persuasion|Visual Persuasion]]
-- [[frameworks/thinking-past-the-sale|Thinking Past The Sale]]
+- [[Pacing And Leading]]
+- [[Kill Shot]]
+- [[Hypnosis]]
+- [[Branding]]
+- [[Persuasion Filter]]
+- [[Reframing]]
+- [[Anchoring]]
+- [[Brainwashing]]
+- [[Visual Persuasion]]
+- [[Thinking Past The Sale]]
 
 ## How to Navigate
 

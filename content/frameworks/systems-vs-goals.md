@@ -47,7 +47,7 @@ From *How to Fail at Almost Everything and Still Win Big*:
 
 - Don't diet (goal). Create an eating system you can maintain indefinitely.
 - Don't try to get rich (goal). Build skills and relationships that create opportunities.
-- Don't aim for one specific career (goal). Develop a [[frameworks/talent-stack|talent stack]] that makes you valuable in multiple scenarios.
+- Don't aim for one specific career (goal). Develop a [[talent stack]] that makes you valuable in multiple scenarios.
 
 ## Why Systems Win
 
@@ -58,8 +58,8 @@ From *How to Fail at Almost Everything and Still Win Big*:
 
 ## See Also
 
-- [[frameworks/talent-stack|Talent Stack]] - A system for career success
-- [[frameworks/risk-management|Risk Management]] - Systems for avoiding catastrophe
+- [[Talent Stack]] - A system for career success
+- [[Risk Management]] - Systems for avoiding catastrophe
 
 ---
 

@@ -7,7 +7,7 @@ maturity: evergreen
 created: 2024-05-22
 ---
 
-Confirmation bias is the human tendency to notice, remember, and prioritize information that supports a pre-existing belief while simultaneously filtering out or explaining away contradictory evidence. In the context of the Scott Adams knowledge graph, this isn't just a minor cognitive glitch; it is the fundamental mechanism that creates the [[frameworks/two-movies-on-one-screen]] phenomenon.
+Confirmation bias is the human tendency to notice, remember, and prioritize information that supports a pre-existing belief while simultaneously filtering out or explaining away contradictory evidence. In the context of the Scott Adams knowledge graph, this isn't just a minor cognitive glitch; it is the fundamental mechanism that creates the [[two-movies-on-one-screen]] phenomenon.
 
 Adams frequently argues that "confirmation bias and reality are indistinguishable" to the person experiencing them. Once a person adopts a specific filter for the world, their brain effectively rewrites incoming data to fit that narrative.
 
@@ -26,6 +26,6 @@ Adams often points to high-profile media events as "hoaxes" fueled by collective
 Overcoming your own mental filters is difficult because the brain is designed to hide its own bias from you. Adams suggests several techniques to mitigate the damage:
 * **The "One or Two Good Reasons" Test:** Force yourself to strip away the "200 reasons" and see if the argument holds up with only its strongest points.
 * **Steel-manning:** Be respectful to the leaders of the "other side" while attacking their ideas as hard as possible. If you can't describe the opposing view in a way they would agree with, you are likely blinded by your own filter.
-* **Identify the "Brainwashing":** Look for patterns where a group of people has one common element (like social media habits) that makes them unusually susceptible to a specific narrative. 
+* **Identify the "[[brainwashing|Brainwashing]]":** Look for patterns where a group of people has one common element (like social media habits) that makes them unusually susceptible to a specific narrative. 
 
 Ultimately, confirmation bias ensures that we are all "living in our own bubbles," but recognizing that you are watching a "movie" rather than objective reality is the first step toward [[persuasion/clear-thinking]].
