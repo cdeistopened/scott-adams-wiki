@@ -1,68 +1,89 @@
 ---
-title: "Scott Adams Wiki"
+title: Scott Adams Wiki
 ---
 
-# Scott Adams (1957-2026)
+<div class="wiki-disclaimer">
+For educational purposes only. Not affiliated with Scott Adams. His work: <span class="source-links">
+<a href="https://scottadams.blog" title="Blog">Blog</a>
+<a href="https://www.dilbert.com" title="Dilbert">Dilbert</a>
+<a href="https://x.com/ScottAdamsSays" title="X">X</a>
+<a href="https://rumble.com/c/RealCoffeeWithScottAdams" title="Rumble">Rumble</a>
+</span>
+</div>
 
-**Creator of Dilbert. Trained hypnotist. Author. Podcaster.**
+An archive of Scott Adams' ideas on persuasion, systems thinking, prediction, and personal optimization drawn from 1,200+ episodes of "Coffee with Scott Adams" (2017-2025).
 
-Scott Adams passed away on January 13, 2026. This wiki preserves his intellectual legacy - the frameworks, techniques, and ways of thinking he developed over thousands of hours of "Coffee with Scott Adams" episodes.
+<div class="stats-row">
+<div class="stat"><a href="./episodes"><span class="stat-value">1195</span><span class="stat-label">Episodes</span></a></div>
+<div class="stat"><a href="./frameworks"><span class="stat-value">37</span><span class="stat-label">Frameworks</span></a></div>
+<div class="stat"><a href="./people"><span class="stat-value">46</span><span class="stat-label">People</span></a></div>
+<div class="stat"><a href="./domains"><span class="stat-value">4</span><span class="stat-label">Domains</span></a></div>
+</div>
 
-> *"Be useful. And please know I loved you all to the end."*
-> — [Scott's Final Message](/about#a-final-message)
+<div class="browse-grid">
+
+<div class="browse-section">
+
+### [Frameworks](./frameworks)
+
+Scott's most-referenced concepts for persuasion, prediction, and personal optimization.
+
+- [Two Movies on One Screen](./frameworks/two-movies-on-one-screen) <span class="item-desc">Why people see opposite realities</span>
+- [Persuasion Filter](./frameworks/persuasion-filter) <span class="item-desc">Viewing the world through influence</span>
+- [Talent Stack](./frameworks/talent-stack) <span class="item-desc">Career success through skill combinations</span>
+- [Systems vs Goals](./frameworks/systems-vs-goals) <span class="item-desc">Why systems beat goals</span>
+- [Reframing](./frameworks/reframing) <span class="item-desc">The most powerful persuasion technique</span>
+- [Affirmations](./frameworks/affirmations) <span class="item-desc">Programming your reality</span>
+
+<a href="./frameworks" class="view-all">View all 37 →</a>
+
+</div>
+
+<div class="browse-section">
+
+### [Domains](./domains)
+
+Scott's ideas organized by topic: how we think, decide, and live.
+
+- [Persuasion](./domains/persuasion) <span class="item-desc">Tools and techniques for changing minds</span>
+- [Perception](./domains/perception) <span class="item-desc">Why we see different realities</span>
+- [Prediction](./domains/prediction) <span class="item-desc">Systems for anticipating outcomes</span>
+- [Lifestyle](./domains/lifestyle) <span class="item-desc">Personal optimization and the good life</span>
+
+<a href="./domains" class="view-all">View all 4 →</a>
+
+</div>
+
+</div>
+
+<div class="browse-grid">
+
+<div class="browse-section">
+
+### [People](./people)
+
+Key figures from Scott's world—economists, politicians, thinkers, and guests who shaped his ideas.
+
+- [Donald Trump](./people/donald-trump) <span class="item-desc">Persuasion case studies</span>
+- [Elon Musk](./people/elon-musk) <span class="item-desc">Systems thinking, prediction</span>
+- [Naval Ravikant](./people/naval-ravikant) <span class="item-desc">Wealth building philosophy</span>
+
+<a href="./people" class="view-all">View all 46 →</a>
+
+</div>
+
+<div class="browse-section">
+
+### [Episodes](./episodes)
+
+1,195 episodes of "Coffee with Scott Adams" indexed and searchable. Explore by topic, guest, or framework.
+
+<a href="./episodes" class="view-all">Browse episodes →</a>
+
+</div>
+
+</div>
 
 ---
 
-## His Books
-
-| Book | Year | Scott's Take |
-|------|------|--------------|
-| [How to Fail at Almost Everything and Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745) | 2013 | *"That book changed lives. My plan to be useful was working."* |
-| [Win Bigly](https://www.amazon.com/Win-Bigly-Persuasion-World-Matter/dp/0735219710) | 2017 | *"Trained an army of citizens how to be more persuasive."* |
-| [Loserthink](https://www.amazon.com/Loserthink-Untrained-Brains-Ruining-America/dp/0593083520) | 2019 | *"Tried to teach people how to think better."* |
-| [Reframe Your Brain](https://www.amazon.com/Reframe-Your-Brain-Interface-Happiness/dp/B0C2KKRQB8) | 2023 | *"Surprised and delighted at how much positive impact."* |
-
----
-
-## Explore the Wiki
-
-### By Domain
-
-Scott's ideas cluster into four domains:
-
-| Domain | Description |
-|--------|-------------|
-| **[[Persuasion]]** | Tools and techniques for changing minds |
-| **[[Perception]]** | How we see reality - and why we see it differently |
-| **[[Prediction]]** | Systems for anticipating outcomes |
-| **[[Lifestyle]]** | Personal optimization and the good life |
-
-### Core Frameworks
-
-His most-referenced ideas:
-
-- **[[Two Movies on One Screen]]** - Why people see opposite realities
-- **[[Persuasion Filter]]** - Viewing the world through persuasion
-- **[[Talent Stack]]** - Career success through skill combinations
-- **[[Systems vs Goals]]** - Why systems beat goals
-- **[[Reframing]]** - The most powerful persuasion technique
-- **[[Affirmations]]** - Programming your reality
-
-### Featured Episodes
-
-The [[featured-episodes|most-watched episodes]] from the podcast.
-
----
-
-## About
-
-- **[[about|About Scott Adams]]** - His final message, books, and links
-- **[Dilbert](https://dilbert.com)** | **[Blog](https://scottadams.blog)** | **[X](https://x.com/ScottAdamsSays)** | **[Rumble](https://rumble.com/c/RealCoffeeWithScottAdams)**
-
----
-
-## About This Wiki
-
-Built from ~1,200 episodes of "Coffee with Scott Adams" (2017-2025), with 37 frameworks extracted and cross-referenced. Use the **graph view** (icon in corner) to see how concepts connect.
-
-*"I don't like to talk in absolutes, because that's how dumb people talk."* — Scott Adams
+Built by [Creative Intelligence Agency](https://creativeintel.agency). Source: "Coffee with Scott Adams" podcast (2017-2025).
